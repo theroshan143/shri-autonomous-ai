@@ -1,0 +1,21 @@
+# Private credentials
+.env
+
+# Local database & run data
+data/
+*.db
+*.log
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
+.system_generated/
