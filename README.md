@@ -4,6 +4,16 @@ An autonomous AI publishing agent that discovers AI/tech topics from live source
 
 Built for **ABTalks Vibe Code Hackathon — Problem Statement 3: Autonomous AI Creator**.
 
+## Live Demo
+
+**Live Demo URL:** `<your-deployed-url>`
+
+> Replace the URL above with your deployed server address before submission.
+
+## Repository
+
+**GitHub:** [https://github.com/theroshan143/shri-autonomous-ai](https://github.com/theroshan143/shri-autonomous-ai) (Public)
+
 ---
 
 ## Architecture
@@ -181,3 +191,9 @@ shri-autonomous-ai/
 - **APScheduler** — in-process background job scheduler
 - **httpx** — async HTTP client for Hacker News API and Breeth API
 - **feedparser** — arXiv RSS parsing
+
+---
+
+## AI Usage Log
+
+See [AI_USAGE_LOG.md](AI_USAGE_LOG.md) for a complete record of all AI tools used during development, as required by hackathon rules.
