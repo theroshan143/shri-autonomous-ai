@@ -6,9 +6,7 @@ Built for **ABTalks Vibe Code Hackathon — Problem Statement 3: Autonomous AI C
 
 ## Live Demo
 
-**Live Demo URL:** `<your-deployed-url>`
-
-> Replace the URL above with your deployed server address before submission.
+**Live Demo URL:** `https://shri-autonomous-ai-production.up.railway.app`
 
 ## Repository
 
